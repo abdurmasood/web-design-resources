@@ -12,12 +12,10 @@ Patterns, gradients, textures, and background resources.
 
 ### Pattern Resources
 - [Hero Patterns](https://heropatterns.com) - Repeatable SVG background patterns
-- [Pattern Library](https://thepatternlibrary.com) - Free vector patterns
 - [Subtle Patterns](https://subtlepatterns.com) - High-quality subtle patterns
 
 ### Gradient Collections
 - [UI Gradients](https://uigradients.com) - Beautiful CSS gradients
-- [Gradient Hunt](https://gradienthunt.com) - Thousands of trendy gradients
 - [WebGradients](https://webgradients.com) - Fresh gradient collection
 
 ---
