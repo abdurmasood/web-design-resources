@@ -13,7 +13,6 @@ Free and premium illustration resources for web projects.
 ### Popular Free Sources
 - [unDraw](https://undraw.co) - Open-source illustrations with customizable colors
 - [Storyset](https://storyset.com) - Customizable illustrations and animations
-- [Illustrations](https://illustrations.co) - Open source illustration library
 
 ### Premium Options
 - [Absurd Design](https://absurd.design) - Surrealist illustrations
